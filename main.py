@@ -1,3 +1,5 @@
-#Seu primeiro programa no repl.it
-print('Meu nome é Willian')
-print(5+5)
+fruta = 'Abacate'
+#index 0123456
+print(fruta[3])
+
+    
